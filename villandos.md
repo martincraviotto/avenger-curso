@@ -3,3 +3,4 @@
 * Dr. doom
 * Red Skull
 * Dr. MrMax
+* Captain American
